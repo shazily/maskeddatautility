@@ -42,6 +42,3 @@ GenAI Discovery: Integrating local, on-premise LLMs to allow natural language da
 
 ⚖️ License
 MIT License - Developed by Shazily Munawar.
-
-
-Would you like me to generate the **SHA-256 Checksum** for your final `.exe` so y
